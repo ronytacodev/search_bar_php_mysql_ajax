@@ -1,6 +1,6 @@
 # BUSCADOR CON PHP, AJAX, MYSQL, BOOTSTRAP, JQUERY. 🔎
 
-Código de un buscador de una data de empleados.
+How to search for anything from the MySQL database using the search bar and displaying the search results using a table.
 
 ## STACK TECH :wrench: :hammer:
 
