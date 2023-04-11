@@ -1,4 +1,4 @@
-# BUSCADOR CON PHP, AJAX, MYSQL, BOOTSTRAP, JQUERY. 🔎
+# SEARCH DATA WITH PHP, AJAX, MYSQL, BOOTSTRAP, JQUERY. 🔎
 
 How to search for anything from the MySQL database using the search bar and displaying the search results using a table.
 
